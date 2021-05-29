@@ -295,7 +295,7 @@ The `:global' workspace is global one.")
 
 ;;;###autoload
 (define-obsolete-function-alias 'lsp-diagnostics-modeline-mode
-  'lsp-modeline-diagnostics-mode "lsp-mode 7.0.1")
+  'lsp-modeline-diagnostics-mode "7.0.1")
 
 ;;;###autoload
 (define-minor-mode lsp-modeline-diagnostics-mode
