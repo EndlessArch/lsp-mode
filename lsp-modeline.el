@@ -61,7 +61,7 @@
 
 ;;;###autoload
 (define-obsolete-variable-alias 'lsp-diagnostics-modeline-scope
-  'lsp-modeline-diagnostics-scope  "lsp-mode 7.0.1")
+  'lsp-modeline-diagnostics-scope  "7.0.1")
 
 (defcustom lsp-modeline-diagnostics-scope :workspace
   "The modeline diagnostics scope."
